@@ -2,6 +2,13 @@
 # Overview
 This dataset contains information about customers of a telecom company and whether they churned or not. Churn refers to the phenomenon of customers leaving a service or product. The dataset includes various features that can be used to predict churn behavior
 
+
+## Business Understanding:
+
+The telecom industry is highly competitive, with customer churn being a significant concern for telecom companies. Customer churn refers to the phenomenon where customers switch from one service provider to another or discontinue services altogether. High churn rates can result in revenue loss, decreased market share, and increased marketing costs to acquire new customers.
+
+Understanding the factors that contribute to churn is essential for telecom companies to develop effective retention strategies. By analyzing customer data, telecom companies can identify patterns and behaviors that are associated with churn. This understanding enables them to take proactive measures to retain customers, improve satisfaction, and enhance the overall customer experience.
+
 # Data Understanding:
 The dataset comprises both numerical and categorical features.
 The target variable is 'Churn', which indicates whether a customer churned or not.
