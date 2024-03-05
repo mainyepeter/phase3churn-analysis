@@ -76,6 +76,23 @@ Build a classifier to predict whether a customer will ("soon") stop doing busine
 
 From the plot, it's evident that most customers have made fewer customer service calls, with a decreasing number of customers as the count of calls increases
 
+## Modelling approach
+Splitting data into train and test sets
+
+Training a random forest classifier
+
+Making prediction
+
+Model evaluation
+
+Hyperparameter tuning using GridSearchCV
+
+Feature Engineering to improve recall
+
+## Conclusion
+
+
+
 
 
 
