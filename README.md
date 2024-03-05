@@ -1,5 +1,4 @@
 # churn-analysis
-[alexander-andrews-JYGnB9gTCls-unsplash (1).jpg](https://github.com/mainyepeter/phase3churn-analysis/blob/main/alexander-andrews-JYGnB9gTCls-unsplash%20(1).jpg#:~:text=Breadcrumbs-,phase3churn%2Danalysis,alexander%2Dandrews%2DJYGnB9gTCls%2Dunsplash%20(1).jpg,-Latest%20commit)
  
 # Overview
 This dataset contains information about customers of a telecom company and whether they churned or not. Churn refers to the phenomenon of customers leaving a service or product. The dataset includes various features that can be used to predict churn behavior
