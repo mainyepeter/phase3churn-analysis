@@ -11,7 +11,7 @@ Call-related features such as 'Total Day Minutes', 'Total Eve Minutes', etc., pr
 
 The dataset contains information about telecom customers and various features that might influence their decision to churn. Here are the key attributes:
 
-State: The state in which the customer resides (categorical).
+## 1.State: The state in which the customer resides (categorical).
 Account Length: The number of days the customer has been with the telecom company (numerical).
 Area Code: The area code of the customer's phone number (categorical).
 Phone Number: The customer's phone number (categorical).
