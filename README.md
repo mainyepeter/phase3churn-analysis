@@ -2,6 +2,8 @@
 # Overview
 This dataset contains information about customers of a telecom company and whether they churned or not. Churn refers to the phenomenon of customers leaving a service or product. The dataset includes various features that can be used to predict churn behavior
 
+## Problem statement:
+The problem we aim to address in this project is predicting customer churn in a telecom dataset. By analyzing customer data such as usage patterns, demographics, and customer service interactions, we aim to develop a predictive model that can accurately identify customers who are likely to churn. This model will enable telecom companies to proactively intervene and implement retention strategies to reduce churn rates
 
 ## Business Understanding:
 
@@ -39,3 +41,15 @@ Total Intl Calls: Total number of international calls (numerical).
 Total Intl Charge: Total charge for international calls (numerical).
 Customer Service Calls: Number of customer service calls made by the customer (numerical).
 Churn: The target variable indicating whether the customer churned or not (categorical: 'yes' or 'no').
+
+##  Main Objective
+Build a classifier to predict whether a customer will ("soon") stop doing business with SyriaTel, a telecommunications company
+
+## Visualisations
+The percentage of loyal customers 
+![image](https://github.com/mainyepeter/phase3churn-analysis/assets/151636772/f0a0df70-f911-4185-a542-53c6cf5690d2)
+85.5% are loyal customers 
+
+
+
+
