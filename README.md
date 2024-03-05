@@ -51,6 +51,12 @@ Build a classifier to predict whether a customer will ("soon") stop doing busine
 
 85.5% are loyal customers 
 
+## Relationship between the number of calls to the call center and Churn
+![image](https://github.com/mainyepeter/phase3churn-analysis/assets/151636772/350dfaa1-551a-43ab-8ada-f7faa51835e0)
+
+From the plot, it's evident that most customers have made fewer customer service calls, with a decreasing number of customers as the count of calls increases
+
+
 
 
 
