@@ -48,6 +48,7 @@ Build a classifier to predict whether a customer will ("soon") stop doing busine
 ## Visualisations
 # The percentage of loyal customers 
 ![image](https://github.com/mainyepeter/phase3churn-analysis/assets/151636772/f0a0df70-f911-4185-a542-53c6cf5690d2)
+
 85.5% are loyal customers 
 
 
