@@ -1,5 +1,4 @@
-# churn-analysis
- https://github.com/mainyepeter/phase3churn-analysis/commit/de16992c54cfb9a95fc0e777a981b08efe349d99
+## SyriaTel Customer Churn analysis
 # Overview
 This dataset contains information about customers of a telecom company and whether they churned or not. Churn refers to the phenomenon of customers leaving a service or product. The dataset includes various features that can be used to predict churn behavior
 
