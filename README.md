@@ -89,8 +89,10 @@ Hyperparameter tuning using GridSearchCV
 
 Feature Engineering to improve recall
 
-## Conclusion
+## Conclusion  and recommendation
 
+Based on these improvements, it can be concluded that the model refinement process has led to enhancements in performance metrics, indicating a better predictive performance of the model. 
+As a recommendation, it's advisable to deploy the refined model into a production environment for real-world usage.
 
 
 
